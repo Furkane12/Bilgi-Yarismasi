@@ -1,0 +1,9 @@
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\Bilgi_Yarisması.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\Bilgi_Yarisması.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\bin\Debug\Bilgi_Yarisması.pdb
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.csproj.GenerateResource.Cache
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.exe
+C:\Users\furka\OneDrive\Masaüstü\C# Proje\Bilgi_Yarisması\Bilgi_Yarisması\obj\Debug\Bilgi_Yarisması.pdb
